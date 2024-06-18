@@ -1,0 +1,31 @@
+focntion apercuGrille
+Affiche la grille 
+
+paramètres
+grille(Entrée) : tableau
+
+
+
+fonction demandeLigne
+Demande quelle ligne l'utilisateur veut aller et vérifie si la ligne est déjà complète
+
+paramètres
+ligne (Entrée/Sortie) : caractère, choix de la ligne (entre A et I)
+
+résultat
+caractère, choix de l'utilisateur
+
+
+
+fonction demandeColonne
+Demande quelle colonne l'utilisateur veut aller et vérifie si la colonne est déjà complète
+
+paramètres
+colonne (Entrée/Sortie) : entier, choix de la colonne (entre 1 et 9)
+
+résultat
+entier, choix de l'utilisateur
+
+
+
+fonction demandeChiffre
